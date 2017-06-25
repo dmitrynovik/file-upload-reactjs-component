@@ -1,0 +1,23 @@
+{
+  "name": "file-upload-react-component",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "ionicons": "^3.0.0",
+    "jquery": "^3.2.1",
+    "prop-types": "^15.5.10",
+    "rc-progress": "^2.1.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
